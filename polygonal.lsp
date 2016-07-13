@@ -1,8 +1,7 @@
 ;;=======================================================================================================================
-;; programa para poligonal cerrada, version MODIFICADA
+;; Closed polygonal computations program for AutoLISP
 ;; Fecha 16 ABRIL 2014
 ;; AGUSTIN IBARS
-;; Modificado en 2013
 ;;=======================================================================================================================
 
  
